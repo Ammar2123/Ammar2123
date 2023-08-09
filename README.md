@@ -1,6 +1,5 @@
-<p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ammar!;I'm+a+Android+Developer...;I'm+also+Full+Stack+Developer;And+I'm+a+CP+Enthusiast)](https://git.io/typing-svg)
-</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ammar!;I'm+a+Android+Developer...;Programmer;I'm+also+Full+Stack+Developer;And+I'm+a+CP+Enthusiast)](https://git.io/typing-svg)
 
    <br/> 
  <p align="center">
