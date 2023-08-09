@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ammar!;I'm+a+Android+Developer...;Programmer;I'm+also+Full+Stack+Developer;And+I'm+a+CP+Enthusiast)](https://git.io/typing-svg)
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
    <br/> 
 <br/>
 
