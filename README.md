@@ -3,7 +3,8 @@
  <p align="center">
    <a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Sans+Serif&weight=900&duration=4000&pause=200&color=00DDF7&center=true&width=435&lines=Programmer;Android+Developer;CP+Enthusiast;Android+Developer;Learner" alt="Typing SVG" /></a></p>
    <br/>
-
+<p align="cente"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<br/>
 
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
