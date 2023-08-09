@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ammar Nagarji</h1>
    <br/> 
-
+ <p align="center">
    <a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Sans+Serif&weight=900&duration=4000&pause=200&color=00DDF7&center=true&width=435&lines=Programmer;Android+Developer;CP+Enthusiast;Android+Developer;Learner" alt="Typing SVG" /></a></p>
+  
    <br/>
    
    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. 
