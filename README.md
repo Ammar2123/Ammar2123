@@ -1,4 +1,7 @@
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ammar!;I'm+a+Android+Developer...;I'm+also+Full+Stack+Developer;And+I'm+a+CP+Enthusiast)](https://git.io/typing-svg)
+</p>
+
    <br/> 
  <p align="center">
    <a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Sans+Serif&weight=900&duration=4000&pause=200&color=00DDF7&center=true&width=435&lines=Programmer;Android+Developer;CP+Enthusiast;Android+Developer;Learner" alt="Typing SVG" /></a></p>
