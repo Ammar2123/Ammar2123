@@ -25,3 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ammar4848&show_icons=true&locale=en" alt="ammar4848" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ammar4848&" alt="ammar4848" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
