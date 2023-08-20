@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 📫 How to reach me **ammarnagarji313@gmail.com**
+- 📫 How to reach me **ammarnagarji48@gmail.com**
 
 - ⚡ Fun fact **Exploring new Technologies..**
 
